@@ -1,4 +1,3 @@
-# This is a sample Python script.
 nombre_archivo = "preguntas_guardadas.txt"
 def leer_archivo(nombre):
   preguntas = []
@@ -326,14 +325,5 @@ def main():
   salir()
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()
-
-
-
-
-
-
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
