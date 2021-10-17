@@ -1,0 +1,600 @@
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 1
+Bienvenido a la opción para registrar preguntas, por favor sigue las instrucciones
+ID de la pregunta: 13
+Ingresa el número de enfoque de la pregunta:
+Para Lectura escriba 1, Para Matemáticas escriba 2, Para Ciencias escriba 3: 2
+Ingresa el texto de la pregunta: 4+5*8
+Ingresa la respuesta 1: 72
+Ingresa la respuesta 2: 44
+Ingresa la respuesta 3: 45
+Ingresa la respuesta 4: 67
+Ingresa la respuesta correcta: 44
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 2
+Bienvenido a la opción para actualizar preguntas, por favor sigue las instrucciones
+A continuación se despliega la lista de preguntas guardadas
+
+[[1, 1, '¿Quién escribió Hamlet?', 'Cervantes', 'Austen', 'Shakespeare', 'Gray', 'Shakespeare'], [2, 3, 'Las plantas producen su propio alimento por medio de: ', 'Fotosíntesis', 'Respirar', 'Absorción', 'Aire', 'Fotosíntesis'], [3, 3, '¿Cuántos huesos tiene un adulto?', '199', '206', '265', '209', '206'], [4, 1, '¿Quién es el personaje principal de la obra?', 'Pepe', 'María', 'Roberto', 'Rosa', 'Rosa'], [5, 1, '¿Quién escribió Marianela?', 'Pérez Galdós', 'Austen', 'Shakespeare', 'Wilde', 'Pérez Galdós'], [6, 2, '¿Cuánto es 3 + 5?', '10', '7', '8', '9', '8'], [7, 1, 'Parte inicial del cuento: ', 'Prólogo', 'Desarrollo', 'Introducción', 'Final', 'Introducción'], [8, 2, '¿Cuánto es 45 + 5?', '50', '3', '46', '34', '50'], [9, 3, 'Molécula de agua:', 'H2', 'C', 'HCl', 'H2O', 'H2O'], [10, 2, '¿Cuánto es 67 - 45?', '22', '25', '12', '18', '2'], [11, 2, '3+3', '4', '5', '6', '7', '6'], [12, 3, 'Órgano que bombea sangre a todo el cuerpo:', 'Corazón', 'Estómago', 'Piel', 'Riñón', 'Corazón'], [13, 2, '4+5*8', '72', '44', '45', '67', '44']]
+ID de la pregunta: 1
+Enfoque de la pregunta: Lectura
+Pregunta: ¿Quién escribió Hamlet?
+a)Cervantes      b)Austen         c)Shakespeare    d)Gray
+
+ID de la pregunta: 2
+Enfoque de la pregunta: Ciencias
+Pregunta: Las plantas producen su propio alimento por medio de:
+a)Fotosíntesis   b)Respirar       c)Absorción      d)Aire
+
+ID de la pregunta: 3
+Enfoque de la pregunta: Ciencias
+Pregunta: ¿Cuántos huesos tiene un adulto?
+a)199            b)206            c)265            d)209
+
+ID de la pregunta: 4
+Enfoque de la pregunta: Lectura
+Pregunta: ¿Quién es el personaje principal de la obra?
+a)Pepe           b)María          c)Roberto        d)Rosa
+
+ID de la pregunta: 5
+Enfoque de la pregunta: Lectura
+Pregunta: ¿Quién escribió Marianela?
+a)Pérez Galdós   b)Austen         c)Shakespeare    d)Wilde
+
+ID de la pregunta: 6
+Enfoque de la pregunta: Matemáticas
+Pregunta: ¿Cuánto es 3 + 5?
+a)10             b)7              c)8              d)9
+
+ID de la pregunta: 7
+Enfoque de la pregunta: Lectura
+Pregunta: Parte inicial del cuento:
+a)Prólogo        b)Desarrollo     c)Introducción   d)Final
+
+ID de la pregunta: 8
+Enfoque de la pregunta: Matemáticas
+Pregunta: ¿Cuánto es 45 + 5?
+a)50             b)3              c)46             d)34
+
+ID de la pregunta: 9
+Enfoque de la pregunta: Ciencias
+Pregunta: Molécula de agua:
+a)H2             b)C              c)HCl            d)H2O
+
+ID de la pregunta: 10
+Enfoque de la pregunta: Matemáticas
+Pregunta: ¿Cuánto es 67 - 45?
+a)22             b)25             c)12             d)18
+
+ID de la pregunta: 11
+Enfoque de la pregunta: Matemáticas
+Pregunta: 3+3
+a)4              b)5              c)6              d)7
+
+ID de la pregunta: 12
+Enfoque de la pregunta: Ciencias
+Pregunta: Órgano que bombea sangre a todo el cuerpo:
+a)Corazón        b)Estómago       c)Piel           d)Riñón
+
+ID de la pregunta: 13
+Enfoque de la pregunta: Matemáticas
+Pregunta: 4+5*8
+a)72             b)44             c)45             d)67
+
+Ingresa el id de la pregunta que quieres cambiar: 11
+
+Pregunta: 3+3
+a)4              b)5              c)6              d)7
+Correcta: 6
+Ingresa el número de enfoque de la pregunta:
+Para Lectura escriba 1, Para Matemáticas escriba 2, Para Ciencias escriba 3: 2
+Ingresa el texto de la pregunta: ¿Cuánto es 3+3?
+Ingresa la respuesta 1:
+Ingresa la respuesta 2:
+Ingresa la respuesta 3:
+Ingresa la respuesta 4:
+Ingresa la respuesta correcta:
+¿Está seguro de que quiere actualizar los datos de la pregunta? (si/no): si
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 13
+Opción incorrecta
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 2
+Bienvenido a la opción para actualizar preguntas, por favor sigue las instrucciones
+A continuación se despliega la lista de preguntas guardadas
+
+[[1, 1, '¿Quién escribió Hamlet?', 'Cervantes', 'Austen', 'Shakespeare', 'Gray', 'Shakespeare'], [2, 3, 'Las plantas producen su propio alimento por medio de: ', 'Fotosíntesis', 'Respirar', 'Absorción', 'Aire', 'Fotosíntesis'], [3, 3, '¿Cuántos huesos tiene un adulto?', '199', '206', '265', '209', '206'], [4, 1, '¿Quién es el personaje principal de la obra?', 'Pepe', 'María', 'Roberto', 'Rosa', 'Rosa'], [5, 1, '¿Quién escribió Marianela?', 'Pérez Galdós', 'Austen', 'Shakespeare', 'Wilde', 'Pérez Galdós'], [6, 2, '¿Cuánto es 3 + 5?', '10', '7', '8', '9', '8'], [7, 1, 'Parte inicial del cuento: ', 'Prólogo', 'Desarrollo', 'Introducción', 'Final', 'Introducción'], [8, 2, '¿Cuánto es 45 + 5?', '50', '3', '46', '34', '50'], [9, 3, 'Molécula de agua:', 'H2', 'C', 'HCl', 'H2O', 'H2O'], [10, 2, '¿Cuánto es 67 - 45?', '22', '25', '12', '18', '2'], [11, 2, '¿Cuánto es 3+3?', '4', '5', '6', '7', '6'], [12, 3, 'Órgano que bombea sangre a todo el cuerpo:', 'Corazón', 'Estómago', 'Piel', 'Riñón', 'Corazón'], [13, 2, '4+5*8', '72', '44', '45', '67', '44']]
+ID de la pregunta: 1
+Enfoque de la pregunta: Lectura
+Pregunta: ¿Quién escribió Hamlet?
+a)Cervantes      b)Austen         c)Shakespeare    d)Gray
+
+ID de la pregunta: 2
+Enfoque de la pregunta: Ciencias
+Pregunta: Las plantas producen su propio alimento por medio de:
+a)Fotosíntesis   b)Respirar       c)Absorción      d)Aire
+
+ID de la pregunta: 3
+Enfoque de la pregunta: Ciencias
+Pregunta: ¿Cuántos huesos tiene un adulto?
+a)199            b)206            c)265            d)209
+
+ID de la pregunta: 4
+Enfoque de la pregunta: Lectura
+Pregunta: ¿Quién es el personaje principal de la obra?
+a)Pepe           b)María          c)Roberto        d)Rosa
+
+ID de la pregunta: 5
+Enfoque de la pregunta: Lectura
+Pregunta: ¿Quién escribió Marianela?
+a)Pérez Galdós   b)Austen         c)Shakespeare    d)Wilde
+
+ID de la pregunta: 6
+Enfoque de la pregunta: Matemáticas
+Pregunta: ¿Cuánto es 3 + 5?
+a)10             b)7              c)8              d)9
+
+ID de la pregunta: 7
+Enfoque de la pregunta: Lectura
+Pregunta: Parte inicial del cuento:
+a)Prólogo        b)Desarrollo     c)Introducción   d)Final
+
+ID de la pregunta: 8
+Enfoque de la pregunta: Matemáticas
+Pregunta: ¿Cuánto es 45 + 5?
+a)50             b)3              c)46             d)34
+
+ID de la pregunta: 9
+Enfoque de la pregunta: Ciencias
+Pregunta: Molécula de agua:
+a)H2             b)C              c)HCl            d)H2O
+
+ID de la pregunta: 10
+Enfoque de la pregunta: Matemáticas
+Pregunta: ¿Cuánto es 67 - 45?
+a)22             b)25             c)12             d)18
+
+ID de la pregunta: 11
+Enfoque de la pregunta: Matemáticas
+Pregunta: ¿Cuánto es 3+3?
+a)4              b)5              c)6              d)7
+
+ID de la pregunta: 12
+Enfoque de la pregunta: Ciencias
+Pregunta: Órgano que bombea sangre a todo el cuerpo:
+a)Corazón        b)Estómago       c)Piel           d)Riñón
+
+ID de la pregunta: 13
+Enfoque de la pregunta: Matemáticas
+Pregunta: 4+5*8
+a)72             b)44             c)45             d)67
+
+Ingresa el id de la pregunta que quieres cambiar: 13
+
+Pregunta: 4+5*8
+a)72             b)44             c)45             d)67
+Correcta: 44
+Ingresa el número de enfoque de la pregunta:
+Para Lectura escriba 1, Para Matemáticas escriba 2, Para Ciencias escriba 3:
+Ingresa el texto de la pregunta: ¿Cuánto es 4+5*8?
+Ingresa la respuesta 1:
+Ingresa la respuesta 2:
+Ingresa la respuesta 3:
+Ingresa la respuesta 4:
+Ingresa la respuesta correcta:
+¿Está seguro de que quiere actualizar los datos de la pregunta? (si/no): SI
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 3
+Bienvenido a la opción para estudiar preguntas de cierta área, por favor sigue las instrucciones:
+
+Ingrese el área de enfoque a estudiar
+Para Lectura escriba 1, Para Matemáticas escriba 2, Para Ciencias escriba 3: 1
+Cantidad de preguntas disponibles del enfoque Lectura: 4
+Ingrese la cantidad de preguntas a estudiar: 4
+
+Pregunta: ¿Quién escribió Hamlet?
+a)Cervantes      b)Austen         c)Shakespeare    d)Gray
+Correcta: Shakespeare
+
+Pregunta: ¿Quién es el personaje principal de la obra?
+a)Pepe           b)María          c)Roberto        d)Rosa
+Correcta: Rosa
+
+Pregunta: ¿Quién escribió Marianela?
+a)Pérez Galdós   b)Austen         c)Shakespeare    d)Wilde
+Correcta: Pérez Galdós
+
+Pregunta: Parte inicial del cuento:
+a)Prólogo        b)Desarrollo     c)Introducción   d)Final
+Correcta: Introducción
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 3
+Bienvenido a la opción para estudiar preguntas de cierta área, por favor sigue las instrucciones:
+
+Ingrese el área de enfoque a estudiar
+Para Lectura escriba 1, Para Matemáticas escriba 2, Para Ciencias escriba 3: 2
+Cantidad de preguntas disponibles del enfoque Matemáticas: 5
+Ingrese la cantidad de preguntas a estudiar: 4
+
+Pregunta: ¿Cuánto es 3 + 5?
+a)10             b)7              c)8              d)9
+Correcta: 8
+
+Pregunta: ¿Cuánto es 45 + 5?
+a)50             b)3              c)46             d)34
+Correcta: 50
+
+Pregunta: ¿Cuánto es 67 - 45?
+a)22             b)25             c)12             d)18
+Correcta: 2
+
+Pregunta: ¿Cuánto es 3+3?
+a)4              b)5              c)6              d)7
+Correcta: 6
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 3
+Bienvenido a la opción para estudiar preguntas de cierta área, por favor sigue las instrucciones:
+
+Ingrese el área de enfoque a estudiar
+Para Lectura escriba 1, Para Matemáticas escriba 2, Para Ciencias escriba 3: 3
+Cantidad de preguntas disponibles del enfoque Ciencias: 4
+Ingrese la cantidad de preguntas a estudiar: 2
+
+Pregunta: Las plantas producen su propio alimento por medio de:
+a)Fotosíntesis   b)Respirar       c)Absorción      d)Aire
+Correcta: Fotosíntesis
+
+Pregunta: ¿Cuántos huesos tiene un adulto?
+a)199            b)206            c)265            d)209
+Correcta: 206
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 1
+Bienvenido a la opción para registrar preguntas, por favor sigue las instrucciones
+ID de la pregunta: 14
+Ingresa el número de enfoque de la pregunta:
+Para Lectura escriba 1, Para Matemáticas escriba 2, Para Ciencias escriba 3: 3
+Ingresa el texto de la pregunta: ¿Cuál es la segunda ley de Newton?
+Ingresa la respuesta 1: F = mg
+Ingresa la respuesta 2: W = Fd
+Ingresa la respuesta 3: F = ma
+Ingresa la respuesta 4: F = g/m
+Ingresa la respuesta correcta: F = ma
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 4
+
+El quiz tiene una duración de 20 minutos.
+
+Pregunta: ¿Quién escribió Hamlet?
+Cervantes      Austen         Shakespeare    Gray
+
+¿Cuál es la respuesta correcta? Shakespeare
+
+Tiempo restante: 19 minutos y 49 segundos.
+
+Pregunta: Las plantas producen su propio alimento por medio de:
+Fotosíntesis   Respirar       Absorción      Aire
+
+¿Cuál es la respuesta correcta? Fotosíntesis
+
+Tiempo restante: 19 minutos y 38 segundos.
+
+Pregunta: ¿Cuántos huesos tiene un adulto?
+199            206            265            209
+
+¿Cuál es la respuesta correcta? 206
+
+Tiempo restante: 19 minutos y 34 segundos.
+
+Pregunta: ¿Quién es el personaje principal de la obra?
+Pepe           María          Roberto        Rosa
+
+¿Cuál es la respuesta correcta? María
+
+Tiempo restante: 19 minutos y 29 segundos.
+
+Pregunta: ¿Quién escribió Marianela?
+Pérez Galdós   Austen         Shakespeare    Wilde
+
+¿Cuál es la respuesta correcta? Pérez Galdós
+
+Tiempo restante: 19 minutos y 18 segundos.
+
+Pregunta: ¿Cuánto es 3 + 5?
+10             7              8              9
+
+¿Cuál es la respuesta correcta? 8
+
+Tiempo restante: 19 minutos y 15 segundos.
+
+Pregunta: Parte inicial del cuento:
+Prólogo        Desarrollo     Introducción   Final
+
+¿Cuál es la respuesta correcta? Final
+
+Tiempo restante: 19 minutos y 10 segundos.
+
+Pregunta: ¿Cuánto es 45 + 5?
+50             3              46             34
+
+¿Cuál es la respuesta correcta? 50
+
+Tiempo restante: 19 minutos y 7 segundos.
+
+Pregunta: ¿Cuál es la segunda ley de Newton?
+F = mg         W = Fd         F = ma         F = g/m
+
+¿Cuál es la respuesta correcta? F = ma
+
+Tiempo restante: 18 minutos y 54 segundos.
+
+Pregunta: ¿Cuánto es 4+5*8?
+72             44             45             67
+
+¿Cuál es la respuesta correcta? 44
+
+Tiempo restante: 18 minutos y 45 segundos.
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 4
+
+El quiz tiene una duración de 20 minutos.
+
+Pregunta: ¿Quién escribió Hamlet?
+Cervantes      Austen         Shakespeare    Gray
+
+¿Cuál es la respuesta correcta? Gray
+
+Tiempo restante: 19 minutos y 54 segundos.
+
+Pregunta: Las plantas producen su propio alimento por medio de:
+Fotosíntesis   Respirar       Absorción      Aire
+
+¿Cuál es la respuesta correcta? Aire
+
+Tiempo restante: 19 minutos y 49 segundos.
+
+Pregunta: ¿Cuántos huesos tiene un adulto?
+199            206            265            209
+
+¿Cuál es la respuesta correcta? 206
+
+Tiempo restante: 19 minutos y 45 segundos.
+
+Pregunta: ¿Quién es el personaje principal de la obra?
+Pepe           María          Roberto        Rosa
+
+¿Cuál es la respuesta correcta? Rosa
+
+Tiempo restante: 19 minutos y 42 segundos.
+
+Pregunta: ¿Quién escribió Marianela?
+Pérez Galdós   Austen         Shakespeare    Wilde
+
+¿Cuál es la respuesta correcta? Wilde
+
+Tiempo restante: 19 minutos y 32 segundos.
+
+Pregunta: ¿Cuánto es 3 + 5?
+10             7              8              9
+
+¿Cuál es la respuesta correcta? 8
+
+Tiempo restante: 19 minutos y 28 segundos.
+
+Pregunta: Parte inicial del cuento:
+Prólogo        Desarrollo     Introducción   Final
+
+¿Cuál es la respuesta correcta? Introducción
+
+Tiempo restante: 19 minutos y 20 segundos.
+
+Pregunta: ¿Cuánto es 45 + 5?
+50             3              46             34
+
+¿Cuál es la respuesta correcta? 50
+
+Tiempo restante: 19 minutos y 16 segundos.
+
+Pregunta: ¿Cuál es la segunda ley de Newton?
+F = mg         W = Fd         F = ma         F = g/m
+
+¿Cuál es la respuesta correcta? F = ma
+
+Tiempo restante: 19 minutos y 10 segundos.
+
+Pregunta: ¿Cuánto es 4+5*8?
+72             44             45             67
+
+¿Cuál es la respuesta correcta? 44
+
+Tiempo restante: 19 minutos y 2 segundos.
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 5
+Total de usuarios:           2
+Promedio de calificaciones:  75.0
+Preguntas correctas:         75.0%
+Preguntas incorrectas:       25.0%
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 1
+Bienvenido a la opción para registrar preguntas, por favor sigue las instrucciones
+ID de la pregunta: 15
+Ingresa el número de enfoque de la pregunta:
+Para Lectura escriba 1, Para Matemáticas escriba 2, Para Ciencias escriba 3: 1
+Ingresa el texto de la pregunta: ¿Quién escribió Moby Dick?
+Ingresa la respuesta 1: Shakespeare
+Ingresa la respuesta 2: Austen
+Ingresa la respuesta 3: Melville
+Ingresa la respuesta 4: Juaréz
+Ingresa la respuesta correcta: Melville
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 4
+
+El quiz tiene una duración de 20 minutos.
+
+Pregunta: ¿Quién escribió Hamlet?
+Cervantes      Austen         Shakespeare    Gray
+
+¿Cuál es la respuesta correcta? Shakespeare
+
+Tiempo restante: 19 minutos y 50 segundos.
+
+Pregunta: Las plantas producen su propio alimento por medio de:
+Fotosíntesis   Respirar       Absorción      Aire
+
+¿Cuál es la respuesta correcta? Fotosíntesis
+
+Tiempo restante: 19 minutos y 45 segundos.
+
+Pregunta: ¿Cuántos huesos tiene un adulto?
+199            206            265            209
+
+¿Cuál es la respuesta correcta? 206
+
+Tiempo restante: 19 minutos y 42 segundos.
+
+Pregunta: ¿Quién es el personaje principal de la obra?
+Pepe           María          Roberto        Rosa
+
+¿Cuál es la respuesta correcta? Rosa
+
+Tiempo restante: 19 minutos y 39 segundos.
+
+Pregunta: ¿Quién escribió Marianela?
+Pérez Galdós   Austen         Shakespeare    Wilde
+
+¿Cuál es la respuesta correcta? Pérez Galdós
+
+Tiempo restante: 19 minutos y 31 segundos.
+
+Pregunta: ¿Cuánto es 3 + 5?
+10             7              8              9
+
+¿Cuál es la respuesta correcta? 8
+
+Tiempo restante: 19 minutos y 28 segundos.
+
+Pregunta: Parte inicial del cuento:
+Prólogo        Desarrollo     Introducción   Final
+
+¿Cuál es la respuesta correcta? Introducción
+
+Tiempo restante: 19 minutos y 21 segundos.
+
+Pregunta: ¿Cuánto es 45 + 5?
+50             3              46             34
+
+¿Cuál es la respuesta correcta? 50
+
+Tiempo restante: 19 minutos y 19 segundos.
+
+Pregunta: ¿Quién escribió Moby Dick?
+Shakespeare    Austen         Melville       Juaréz
+
+¿Cuál es la respuesta correcta? Melville
+
+Tiempo restante: 19 minutos y 14 segundos.
+
+Pregunta: ¿Cuál es la segunda ley de Newton?
+F = mg         W = Fd         F = ma         F = g/m
+
+¿Cuál es la respuesta correcta? F = ma
+
+Tiempo restante: 19 minutos y 10 segundos.
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 5
+Total de usuarios:           3
+Promedio de calificaciones:  83.33333333333333
+Preguntas correctas:         83.33333333333333%
+Preguntas incorrectas:       16.66666666666667%
+Menú de opciones:
+        1.	Alta de preguntas de prueba PISA (lectura, matemáticas, ciencias)
+        2.	Actualizar preguntas de la prueba PISA (lectura, matemáticas, ciencias)
+        3.	Estudiar preguntas de cierta área (lectura, matemáticas, ciencias)
+        4.	Presentar un quiz (lectura, matemáticas, ciencias)
+        5.	Reporte de calificaciones
+        6.	Salir
+Selecciona una opción: 6
+Gracias por usar el sistema, hasta pronto!
