@@ -1,0 +1,12 @@
+1,1,¿Quién escribió Hamlet?,Cervantes,Austen,Shakespeare,Gray,Shakespeare
+2,3,Las plantas producen su propio alimento por medio de: ,Fotosíntesis,Respirar,Absorción,Aire,Fotosíntesis
+3,3,¿Cuántos huesos tiene un adulto?,199,206,265,209,206
+4,1,¿Quién es el personaje principal de la obra?,Pepe,María,Roberto,Rosa,Rosa
+5,1,¿Quién escribió Marianela?,Pérez Galdós,Austen,Shakespeare,Wilde,Pérez Galdós
+6,2,¿Cuánto es 3 + 5?,10,7,8,9,8
+7,1,Parte inicial del cuento: ,Prólogo,Desarrollo,Introducción,Final,Introducción
+8,2,¿Cuánto es 45 + 5?,50,3,46,34,50
+9,3,Molécula de agua:,H2,C,HCl,H2O,H2O
+10,2,¿Cuánto es 67 - 45?,22,25,12,18,2
+11,2,3+3,4,5,6,7,6
+12,3,Órgano que bombea sangre a todo el cuerpo:,Corazón,Estómago,Piel,Riñón,Corazón
